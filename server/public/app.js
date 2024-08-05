@@ -1,4 +1,4 @@
-const socket = io("https://chat-room-app-lakhan3011s-projects.vercel.app/");
+const socket = io("https://chat-room-five-rho.vercel.app/");
 
 const msgInput = document.querySelector("#message");
 const nameInput = document.querySelector("#name");
